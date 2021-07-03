@@ -1,2 +1,2 @@
-# Glut-Computer-Grahphics-
+# Glut-Computer-Grahphics
 Computer graphics glut projects
